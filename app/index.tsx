@@ -1,5 +1,6 @@
 import {Text, View} from 'react-native'
 import ProfileButton from "../components/buttons/profileButton";
+import Profile from "./profile";
 
 const Home = () => {
     return(
